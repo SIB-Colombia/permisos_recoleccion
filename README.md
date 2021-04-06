@@ -1,2 +1,2 @@
 # permisos_recoleccion
-Script asociados al intentario de datos y conjuntos de datos de los permisos de recolección
+Scripts asociados al inventario de datos y conjuntos de datos de los permisos de recolección
